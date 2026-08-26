@@ -1014,7 +1014,7 @@
         "uuid": "1e96c69b-f36f-4762-8445-55c423e1825d"
       }
     ],
-    "used_designators": "D1-10,#PWR1-152,C1-43,FB1,JP1,H1-4,J1-12,IC1-2,L1,LS1,XTAL1,Q1-5,R1-46,TP1-28,U1-13,Y1,CR1-2",
+    "used_designators": "D1-14,#PWR1-152,C1-43,FB1,JP1,H1-4,J1-12,IC1-2,L1,LS1,XTAL1,Q1-5,R1-46,TP1-28,U1-13,Y1,CR1-2",
     "variants": [
       {
         "name": "Custom 1"
