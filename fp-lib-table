@@ -15,4 +15,5 @@
 	(lib (name "B340A-13-F") (type "KiCad") (uri "${KIPRJMOD}/Imports/Components/Diodes/B340A-13-F/KiCADv6/footprints.pretty") (options "") (descr ""))
 	(lib (name "LSR_26-27_Library_Footprint") (type "KiCad") (uri "C:/Users/Admin/OneDrive - Louisiana State University/Louisiana State Rocketry/LSR.26-27/Libraries/Kicad/LSR_26-27_Library_Footprint.pretty") (options "") (descr ""))
 	(lib (name "LSR_26-27_Library_Footprint") (type "KiCad") (uri "C:/Users/Admin/OneDrive - Louisiana State University/Louisiana State Rocketry/LSR.26-27/Libraries/Kicad/LSR_26-27_Library_Footprint.pretty") (options "") (descr ""))
+	(lib (name "LSR_26-27_Library_Footprint") (type "KiCad") (uri "C:/Users/Admin/OneDrive - Louisiana State University/Louisiana State Rocketry/LSR.26-27/Libraries/Kicad/LSR_26-27_Library_Footprint.pretty") (options "") (descr ""))
 )
